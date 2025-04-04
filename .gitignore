@@ -1,2 +1,7 @@
 *.rbc
 *.fyc
+
+node_modules
+dist
+dist-ssr
+*.local
